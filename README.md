@@ -102,5 +102,6 @@ You can add screenshots of:
 
 
 ## Screenshots
-![alt text](<Screenshot 2025-05-27 185523.png>)
-![alt text](<Screenshot 2025-05-27 185546.png>)
+![1](https://github.com/user-attachments/assets/95a4bade-46e3-494f-af36-8c7e81948912)
+
+
